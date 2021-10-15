@@ -1,6 +1,11 @@
 <div>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
-  <div align="right" style="display: inline_block"><br>
+  <p align="left"> 
+    Hi, I'm Luciano Pongeluppi, student of Systems Analysis and Development,<br>
+    currently I work creating scripts with Python's Selenium library to automate<br>
+    processes in Sabesp's system (São Paulo's sanitation company).
+ </p>
+ <div align="right" style="display: inline_block"><br>
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -9,11 +14,6 @@
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </div>
-
-  <p align="left"> 
-    Hi, I'm Luciano Pongeluppi, student of Systems Analysis and Development,<br>
-    currently I work creating scripts with Python's Selenium library to automate<br>
-    processes in Sabesp's system (São Paulo's sanitation company).
  </div>
  <div align="left">
   <a href="https://github.com/LucianoPongeluppi">
