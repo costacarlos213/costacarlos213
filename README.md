@@ -3,27 +3,6 @@
 
   <p align="left"> 
     Hi, I'm Luciano Pongeluppi, student of Systems Analysis and Development, and currently I work creating scripts with Python's Selenium library to automate processes in Sabesp's system (São Paulo's sanitation company).
-  </p>
-
-  <p align="left">
-    🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
-  </p>
-
-  <p align="left">
-    💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-  </p>
-
-  <p align="left">
-    💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-  </p>
-
-  <p align="left">
-    <a href="lucianopongeluppi@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-    <a href="https://www.linkedin.com/in/luciano-pongeluppi-313371206/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-  </p>
  </div>
  <div align="center">
   <a href="https://github.com/LucianoPongeluppi">
