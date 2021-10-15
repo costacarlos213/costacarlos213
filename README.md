@@ -2,7 +2,9 @@
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
   <p align="left"> 
-    Hi, I'm Luciano Pongeluppi, student of Systems Analysis and Development, and currently I work creating scripts with Python's Selenium library to automate processes in Sabesp's system (São Paulo's sanitation company).
+    Hi, I'm Luciano Pongeluppi, student of Systems Analysis and Development,<br>
+    currently I work creating scripts with Python's Selenium library to <br>
+    automate processes in Sabesp's system (São Paulo's sanitation company).
  </div>
  <div align="center">
   <a href="https://github.com/LucianoPongeluppi">
