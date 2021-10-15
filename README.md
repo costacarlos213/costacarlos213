@@ -6,7 +6,7 @@
     currently I work creating scripts with Python's Selenium library to automate<br>
     processes in Sabesp's system (São Paulo's sanitation company).
  </div>
- <div align="center">
+ <div align="left">
   <a href="https://github.com/LucianoPongeluppi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoPongeluppi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoPongeluppi&layout=compact&langs_count=7&theme=dracula"/>
