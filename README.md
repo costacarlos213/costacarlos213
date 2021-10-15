@@ -1,6 +1,8 @@
-## Hi, I'm Luciano Pongeluppi, student of Systems Analysis and Development,<br>
-## currently I work creating scripts with Python's Selenium library to automate<br>
-## processes in Sabesp's system (São Paulo's sanitation company).
+<p>
+    ## Hi, I'm Luciano Pongeluppi, student of Systems Analysis and Development,<br>
+    ## currently I work creating scripts with Python's Selenium library to automate<br>
+    ## processes in Sabesp's system (São Paulo's sanitation company).
+</p>
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
