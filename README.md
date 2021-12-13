@@ -1,4 +1,4 @@
-## Hi, I'm Luciano Pongeluppi, student of Systems Analysis and Development, currently I work creating scripts with Python's Selenium library to automate processes in Sabesp's system (São Paulo's sanitation company).
+## Hi, I'm Luciano Pongeluppi, student of Systems Analysis and Development, currently i work creating mobile apps for enterprise web masters using React Native and I also create scripts for process automation using the Selenium library in Python.
 <div align="center">
   <a href="https://github.com/LucianoPongeluppi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoPongeluppi&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
