@@ -1,7 +1,7 @@
 ## Hi, I'm Luciano Pongeluppi, student of Systems Analysis and Development, currently i work creating mobile apps for enterprise web masters using React Native and I also create scripts for process automation using the Selenium library in Python.
 <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucianoPongeluppi&theme=tokyonight"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucianoPongeluppi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoPongeluppi&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=LucianoPongeluppi&theme=tokyonight&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucianoPongeluppi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoPongeluppi&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=LucianoPongeluppi&theme=tokyonight&hide_border=true"/>
 
  ##
 </div>
