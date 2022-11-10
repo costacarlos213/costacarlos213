@@ -5,9 +5,9 @@
  ##
 </div>
 <div align="center" style="display: inline_block"><br>
-  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/nodejs.svg">
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/database.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
 
 ## 
