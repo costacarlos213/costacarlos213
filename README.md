@@ -5,7 +5,7 @@
  ##
 </div>
 <div align="center" style="display: inline_block"><br>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="02493e4e-13e2-49bc-8e90-ab085a23b3e2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <a href="https://www.credly.com/earner/earned/share/02493e4e-13e2-49bc-8e90-ab085a23b3e2"><img src="https://www.credly.com/badges/02493e4e-13e2-49bc-8e90-ab085a23b3e2/public_url></a>
 </div>
 
 ## 
