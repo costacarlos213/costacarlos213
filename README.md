@@ -5,7 +5,7 @@
  ##
 </div>
 <div align="center" style="display: inline_block"><br>
-  <a href="https://www.credly.com/earner/earned/share/02493e4e-13e2-49bc-8e90-ab085a23b3e2"><img src="https://www.credly.com/badges/02493e4e-13e2-49bc-8e90-ab085a23b3e2/public_url></a>
+  <a href="https://www.credly.com/earner/earned/share/02493e4e-13e2-49bc-8e90-ab085a23b3e2"><img src="https://www.credly.com/badges/02493e4e-13e2-49bc-8e90-ab085a23b3e2/public_url"></a>
 </div>
 
 ## 
